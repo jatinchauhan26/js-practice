@@ -51,7 +51,7 @@
 // console.log("a== b", a === b);
 
 // let color;
-// if(mode == "dark-mode"){
+// if(mode == "dark -mode"){
 //     color : "black";
 // }
 
@@ -120,15 +120,15 @@
 
 
 
-// ALERT AND PROMPT
+ALERT AND PROMPT in javascript
 
-// alert ("hello")
+alert ("hello")
 
-// num = prompt("enter a number");
-// if(num%5===0 ){
-//     console.log(num,"is divisible by 5")
-// }
-// else{
-//     console.log("not divisible")
-// }
+num = prompt("enter a number");
+if(num%5===0 ){
+    console.log(num,"is divisible by 5")
+}
+else{
+    console.log("not divisible")
+}
 
