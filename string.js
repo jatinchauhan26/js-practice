@@ -23,4 +23,5 @@ let str2 = "Chauhan";
 console.log(str.charAt(3));
 
 // console.log(newstr);
-
+ 
+//string methods
