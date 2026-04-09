@@ -8,6 +8,8 @@
 // // console.log(heroes[j]);
 // // }
 
+
+
 // for (let i = 0; i < heroes.length; i++) {
 //     let word = heroes[i];
 
@@ -33,7 +35,6 @@
 //For a given array with prices of 5 items.
 // All items have an offer of 10% OFF on them . Change the array to store final price agter applying offer.
 
-
 let items = [250,645,300,900,50];
 // let i = 0;
 // for(let val of items){
@@ -43,8 +44,43 @@ let items = [250,645,300,900,50];
 // }
 
 
+
+
 for(let i = 0 ; i< items.length ; i++){
     let discount = (items[i]*10)/100;
     items[i] -= discount ; 
 console.log("now the item after discount are :" , items[i]);
 }
+
+
+
+
+
+
+////////////////////////ARRAY OPERATIONS :
+
+
+let food = ["potato","litchi","banana","pineapple"];
+let drink = ["coca","limca","sting","tea"];
+
+///FOR END---
+// food.push("chips","burger");      ----------PUSH()
+// food.pop();                       ----------POP()
+
+///FOR START
+// food.unshift("chips","burger");       ----------UNSHIFT()
+// food.shift();                        ------------SHIFT()
+
+
+// console.log(food.toString());     --------- toString()
+// let final = food.concat(drink);   ----------concat()
+
+// console.log(food.slice(1,3))      ----------slice(start,end)
+// console.log(food.slice(1));
+
+
+// food.splice(1,2,"chiku","guava");
+console.log(food);
+
+// console.log(final);
+// console.log(food)
