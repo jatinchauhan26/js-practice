@@ -82,5 +82,9 @@ let drink = ["coca","limca","sting","tea"];
 // food.splice(1,2,"chiku","guava");
 console.log(food);
 
+
 // console.log(final);
 // console.log(food)
+
+
+array
