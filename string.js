@@ -1,6 +1,12 @@
 //----------STRING METHODS 
 
 
+// for traverse in string 
+
+for(const char of str){
+    console.log(char);
+}
+
 let str = "Jatin chauhan";
 let str1 = "Jatin";
 let str2 = "Chauhan";

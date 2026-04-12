@@ -63,20 +63,20 @@ console.log("now the item after discount are :" , items[i]);
 let food = ["potato","litchi","banana","pineapple"];
 let drink = ["coca","limca","sting","tea"];
 
-/FOR END---
-food.push("chips","burger");      ----------PUSH()
-food.pop();                       ----------POP()
+// /FOR END---
+// food.push("chips","burger");      ----------PUSH()
+// food.pop();                       ----------POP()
 
-/FOR START
-food.unshift("chips","burger");       ----------UNSHIFT()
-food.shift();                        ------------SHIFT()
+// /FOR START
+// food.unshift("chips","burger");       ----------UNSHIFT()
+// food.shift();                        ------------SHIFT()
 
 
-console.log(food.toString());     --------- toString()
-let final = food.concat(drink);   ----------concat()
+// console.log(food.toString());     --------- toString()
+// let final = food.concat(drink);   ----------concat()
 
-console.log(food.slice(1,3))      ----------slice(start,end)
-console.log(food.slice(1));
+// console.log(food.slice(1,3))      ----------slice(start,end)
+// console.log(food.slice(1));
 
 
 // food.splice(1,2,"chiku","guava");
