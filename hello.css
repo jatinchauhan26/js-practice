@@ -1,0 +1,30 @@
+/* h6 {
+    color :chocolate;
+    font-family: 'Trebuchet MS';
+   text-transform: lowercase ;
+} */
+ /* #heading {
+    color :chocolate;
+    font-family: 'Trebuchet MS';
+   text-transform: lowercase ;
+}
+
+button { 
+    background-color: aliceblue;
+     text-shadow: 0cqi;
+ color: rgb(20, 12, 102);
+} */
+
+
+body {
+    background-color: ;
+}
+
+.box {
+    height : 100px;
+    width : 100px;
+    margin : 5px;
+    border : 1px solid black;
+    background-color: aquamarine;
+    text-align : center;
+}
