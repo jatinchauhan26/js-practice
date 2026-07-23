@@ -19,9 +19,19 @@ button {
 body {
     background-color: ;
 }
-
+/* 
 .box {
     height : 100px;
+    width : 100px;
+    margin : 5px;
+    border : 1px solid black;
+    background-color: aquamarine;
+    text-align : center;
+} */
+
+
+#box {
+    height : 1000px;
     width : 100px;
     margin : 5px;
     border : 1px solid black;
